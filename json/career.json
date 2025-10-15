@@ -1,0 +1,405 @@
+{
+  "jobCategories": [
+    { "name": "All positions", "count": 12, "active": true },
+    { "name": "Full Stack Web Development", "count": 1, "active": false },
+    { "name": "CMS Web Development", "count": 1, "active": false },
+    { "name": "App Development", "count": 1, "active": false },
+    { "name": "UI/UX Design (Web and Mobile App)", "count": 1, "active": false },
+    { "name": "Analytics and Conversion Tracking", "count": 1, "active": false },
+    { "name": "Google Ads", "count": 1, "active": false },
+    { "name": "Social Media Marketing", "count": 1, "active": false },
+    { "name": "Graphics Design", "count": 1, "active": false },
+    { "name": "Video Editing", "count": 1, "active": false },
+    { "name": "Cyber Security", "count": 1, "active": false },
+    { "name": "SEO Specialist", "count": 1, "active": false },
+    { "name": "AI Agent Creation & Automation", "count": 1, "active": false }
+  ],
+  "jobListings": [
+    {
+      "id": "1",
+      "category": "Engineering",
+      "title": "Full-Stack Developer",
+      "slug": "full-stack-developer",
+      "position": "Full-Stack Developer",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "Full Stack Web Development",
+      "responsibilities": [
+        "Design, develop, and maintain scalable web applications using modern tech stacks",
+        "Build and integrate APIs and smart contract functionality",
+        "Ensure responsive design and cross-platform optimization",
+        "Collaborate with UI/UX designers, QA, and blockchain teams",
+        "Write clean, maintainable, and well-documented code",
+        "Perform code reviews and troubleshoot issues",
+        "Work in agile sprints and participate in daily standups"
+      ],
+      "skills": [
+        "3+ years of full-stack development experience",
+        "Proficiency in JavaScript, React.js, Node.js, Express, Next.js, PostgreSQL",
+        "Experience with RESTful APIs and GraphQL",
+        "Version control (Git) and CI/CD pipeline knowledge",
+        "Bonus: Solidity, Web3.js, TypeScript, Nest.js, blockchain experience"
+      ],
+      "bonus": [
+        "Built crypto wallets, NFT platforms, or ICO dashboards",
+        "Familiarity with container tools (Docker, Kubernetes)",
+        "Contributions to open-source Web3 projects"
+      ],
+      "expert": [
+        "Developed scalable web apps from scratch",
+        "Deep understanding of modern frameworks, databases, and APIs",
+        "Experience in smart contract integration and blockchain"
+      ]
+    },
+    {
+      "id": "2",
+      "category": "Development",
+      "title": "CMS Developer",
+      "slug": "cms-developer",
+      "position": "CMS Developer",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "CMS Web Development",
+      "responsibilities": [
+        "Build and maintain websites using CMS platforms (WordPress, Shopify, Drupal)",
+        "Customize themes, plugins, and templates",
+        "Optimize websites for speed, SEO, and performance",
+        "Ensure cross-browser and responsive compatibility",
+        "Troubleshoot CMS-related issues"
+      ],
+      "skills": [
+        "2+ years of CMS development experience",
+        "Proficiency in PHP, HTML, CSS, JavaScript",
+        "Experience with databases (MySQL, MongoDB)",
+        "Knowledge of SEO and security best practices"
+      ],
+      "bonus": [
+        "Developed high-traffic CMS websites",
+        "Customized core CMS functionality",
+        "Worked on e-commerce and multi-language sites"
+      ],
+      "expert": [
+        "Capable of building fully customized CMS websites",
+        "Optimizes performance, security, and SEO end-to-end"
+      ]
+    },
+    {
+      "id": "3",
+      "category": "Development",
+      "title": "App Developer",
+      "slug": "app-developer",
+      "position": "App Developer",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "App Development",
+      "responsibilities": [
+        "Develop and maintain mobile applications for iOS and Android",
+        "Collaborate with UI/UX designers to implement interactive interfaces",
+        "Integrate APIs and backend services",
+        "Ensure high performance, security, and responsiveness",
+        "Troubleshoot and optimize apps"
+      ],
+      "skills": [
+        "2+ years of app development experience",
+        "Proficiency in Swift, Kotlin, Flutter, or React Native",
+        "Knowledge of mobile UI/UX best practices",
+        "Familiarity with app deployment processes"
+      ],
+      "bonus": [
+        "Built apps with authentication, payments, push notifications",
+        "Experience with cross-platform frameworks",
+        "Published apps with high user ratings"
+      ],
+      "expert": [
+        "Released apps on major platforms",
+        "Can design, develop, and maintain end-to-end mobile solutions"
+      ]
+    },
+    {
+      "id": "4",
+      "category": "Design",
+      "title": "UI/UX Designer",
+      "slug": "ui-ux-designer",
+      "position": "UI/UX Designer",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "UI/UX Design (Web and Mobile App)",
+      "responsibilities": [
+        "Design intuitive interfaces for web and mobile apps",
+        "Create wireframes, prototypes, and high-fidelity designs",
+        "Conduct user research and usability testing",
+        "Collaborate with developers to implement designs",
+        "Ensure brand consistency and accessibility"
+      ],
+      "skills": [
+        "2+ years of UI/UX experience",
+        "Proficiency in Figma, Adobe XD, Sketch, or similar tools",
+        "Strong understanding of design principles, typography, and color theory",
+        "Knowledge of responsive design"
+      ],
+      "bonus": [
+        "Experience with design systems and atomic design",
+        "Conducted extensive user testing and feedback analysis",
+        "Designed high-traffic apps or enterprise-level interfaces"
+      ],
+      "expert": [
+        "Creates high-impact, user-friendly applications",
+        "Converts wireframes to functional, optimized products"
+      ]
+    },
+    {
+      "id": "5",
+      "category": "Analytics",
+      "title": "Analytics & Conversion Specialist",
+      "slug": "analytics-conversion-specialist",
+      "position": "Analytics & Conversion Specialist",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "Analytics and Conversion Tracking",
+      "responsibilities": [
+        "Implement and manage tracking systems (GA4, GTM, Facebook Pixel, etc.)",
+        "Set up conversion goals, events, and attribution models",
+        "Analyze website/app performance and provide actionable insights",
+        "Troubleshoot tracking and data discrepancies",
+        "Monitor campaign performance and ROI"
+      ],
+      "skills": [
+        "2+ years of analytics and tracking experience",
+        "Proficiency in Google Analytics, Tag Manager, and Ads Conversion Tracking",
+        "Knowledge of server-side tracking and API integrations",
+        "Strong analytical and reporting skills"
+      ],
+      "bonus": [
+        "Experience with data visualization tools (Tableau, Power BI)",
+        "Expertise in marketing attribution and multi-channel analytics",
+        "Experience in e-commerce or SaaS tracking"
+      ],
+      "expert": [
+        "Accurately measures KPIs and optimizes conversions",
+        "Implements end-to-end tracking solutions across platforms"
+      ]
+    },
+    {
+      "id": "6",
+      "category": "Marketing",
+      "title": "PPC / Google Ads Specialist",
+      "slug": "ppc-google-ads-specialist",
+      "position": "PPC / Google Ads Specialist",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "Google Ads",
+      "responsibilities": [
+        "Create, manage, and optimize Google Ads campaigns",
+        "Conduct keyword research and competitor analysis",
+        "Track campaign performance and ROI",
+        "Prepare reports and recommendations for stakeholders"
+      ],
+      "skills": [
+        "2+ years of Google Ads experience",
+        "Knowledge of bidding strategies, ad copywriting, and targeting",
+        "Proficiency in Google Ads, Analytics, and Tag Manager"
+      ],
+      "bonus": [
+        "Experience with display, search, video, and remarketing campaigns",
+        "Managed campaigns for e-commerce or large-scale clients",
+        "Conducted A/B testing for ads"
+      ],
+      "expert": [
+        "Achieves high CTR, ROI, and campaign performance",
+        "Optimizes campaigns across multiple industries"
+      ]
+    },
+    {
+      "id": "7",
+      "category": "Marketing",
+      "title": "Social Media Marketer",
+      "slug": "social-media-marketer",
+      "position": "Social Media Marketer",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "Social Media Marketing",
+      "responsibilities": [
+        "Plan and execute social media campaigns",
+        "Create engaging content and visuals",
+        "Monitor performance, analyze metrics, and adjust strategy",
+        "Manage social media ads and budgets"
+      ],
+      "skills": [
+        "2+ years of social media marketing experience",
+        "Proficiency in social media platforms and analytics tools",
+        "Strong copywriting and creative skills"
+      ],
+      "bonus": [
+        "Experience with paid social campaigns and remarketing",
+        "Built viral content and grew organic reach",
+        "Managed multiple platforms for brands"
+      ],
+      "expert": [
+        "Delivers campaigns that increase engagement and conversions",
+        "Understands audience behavior and platform trends"
+      ]
+    },
+    {
+      "id": "8",
+      "category": "Design",
+      "title": "Graphic Designer",
+      "slug": "graphic-designer",
+      "position": "Graphic Designer",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "Graphics Design",
+      "responsibilities": [
+        "Design visual content for web, social media, and print",
+        "Create branding materials, infographics, and advertisements",
+        "Collaborate with marketing and product teams",
+        "Ensure visual consistency and brand adherence"
+      ],
+      "skills": [
+        "2+ years of graphic design experience",
+        "Proficiency in Adobe Creative Suite",
+        "Strong understanding of typography, color, and composition"
+      ],
+      "bonus": [
+        "Experience in motion graphics and animation",
+        "Portfolio includes branding, digital, and print design",
+        "Created high-impact social media visuals"
+      ],
+      "expert": [
+        "Produces visually compelling designs that drive engagement",
+        "Meets brand and client requirements consistently"
+      ]
+    },
+    {
+      "id": "9",
+      "category": "Creative",
+      "title": "Video Editor",
+      "slug": "video-editor",
+      "position": "Video Editor",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "Video Editing",
+      "responsibilities": [
+        "Edit and produce videos for social media, ads, and presentations",
+        "Add visual effects, transitions, audio, and color grading",
+        "Collaborate with content and marketing teams"
+      ],
+      "skills": [
+        "2+ years of video editing experience",
+        "Proficiency in Adobe Premiere Pro, Final Cut Pro, After Effects",
+        "Strong storytelling and visual composition skills"
+      ],
+      "bonus": [
+        "Experience in motion graphics or 2D/3D animation",
+        "Produced viral or marketing-focused content",
+        "Knowledge of different video formats and platforms"
+      ],
+      "expert": [
+        "Creates engaging videos that drive conversions",
+        "Works efficiently while maintaining high quality"
+      ]
+    },
+    {
+      "id": "10",
+      "category": "Security",
+      "title": "Cyber Security Analyst",
+      "slug": "cyber-security-analyst",
+      "position": "Cyber Security Analyst",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "Cyber Security",
+      "responsibilities": [
+        "Monitor and protect systems from cyber threats",
+        "Conduct vulnerability assessments and penetration testing",
+        "Implement security policies and access controls",
+        "Investigate security incidents and provide solutions"
+      ],
+      "skills": [
+        "2+ years of cybersecurity experience",
+        "Knowledge of network security, firewalls, and encryption",
+        "Familiarity with penetration testing tools and standards (ISO, GDPR, NIST)"
+      ],
+      "bonus": [
+        "Experience with incident response and threat intelligence",
+        "Certified Ethical Hacker (CEH) or CISSP certification",
+        "Implemented enterprise-level security solutions"
+      ],
+      "expert": [
+        "Protects systems proactively and effectively",
+        "Responds to threats and vulnerabilities efficiently"
+      ]
+    },
+    {
+      "id": "11",
+      "category": "Marketing",
+      "title": "SEO Specialist",
+      "slug": "seo-specialist",
+      "position": "SEO Specialist",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "SEO Specialist",
+      "responsibilities": [
+        "Conduct keyword research, competitor analysis, and audits",
+        "Optimize on-page, off-page, and technical SEO",
+        "Build high-quality backlinks and monitor domain authority",
+        "Track performance and provide actionable insights"
+      ],
+      "skills": [
+        "2+ years of SEO experience",
+        "Proficiency in SEMrush, Ahrefs, Google Search Console, Moz",
+        "Knowledge of content strategy, link building, and SERP analysis"
+      ],
+      "bonus": [
+        "Experience with local SEO and Google Business Profile",
+        "Knowledge of schema markup and structured data",
+        "Worked on high-traffic websites or e-commerce SEO"
+      ],
+      "expert": [
+        "Consistently improves organic rankings and website traffic",
+        "Strong understanding of search engine algorithms"
+      ]
+    },
+    {
+      "id": "12",
+      "category": "Technology",
+      "title": "AI Automation Specialist",
+      "slug": "ai-automation-specialist",
+      "position": "AI Automation Specialist",
+      "location": "Remote/On-Site",
+      "type": "Full Time",
+      "date": "10/07/2025",
+      "categoryMatch": "AI Agent Creation & Automation",
+      "responsibilities": [
+        "Design and develop AI agents for chatbots, business automation, or processes",
+        "Integrate AI tools with web and mobile platforms",
+        "Automate repetitive tasks and optimize AI agent performance",
+        "Collaborate with developers and business teams to define AI use-cases"
+      ],
+      "skills": [
+        "2+ years of AI, automation, or ML experience",
+        "Proficiency in Python, Node.js, or similar languages",
+        "Experience with AI frameworks and APIs (OpenAI, LangChain, Hugging Face)",
+        "Knowledge of NLP, ML models, and data preprocessing"
+      ],
+      "bonus": [
+        "Built AI-powered chatbots or virtual assistants",
+        "Experience with serverless cloud platforms (AWS, GCP, Azure)",
+        "Knowledge of RPA tools and open-source contributions"
+      ],
+      "expert": [
+        "Creates AI agents that improve efficiency or user experience",
+        "Deep understanding of AI workflows and integration"
+      ]
+    }
+  ]
+}

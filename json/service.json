@@ -1,0 +1,891 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Full Stack Web Development",
+      "slug": "full-stack-web-development",
+      "subtitle": "What You Will Get with Our Full-Stack Development Services",
+      "details": "End-to-end full-stack solutions with scalable frontend and backend expertise.",
+      "children": [],
+      "icon": "/services/web.svg",
+      "heroImage": "/services/Full_Stack/1.jpg",
+      "sectionImages": [
+        "/services/Full_Stack/2.jpg",
+        "/services/Full_Stack/3.jpg",
+        "/services/Full_Stack/4.jpg",
+        "/services/Full_Stack/5.jpg"
+      ],
+      "features": [
+        "MERN Stack Expertise – End-to-end solutions using MongoDB, Express.js, React.js, and Node.js for scalable web applications.",
+        "Next.js Development – Server-side rendering, static site generation, and SEO-optimized apps built with modern workflows.",
+        "Responsive Frontend Development – Pixel-perfect, mobile-first UI using React.js, Tailwind CSS, Bootstrap, and Material UI.",
+        "Custom Backend Development – Secure, high-performance APIs built with Node.js, Express.js, or NestJS.",
+        "API Integration & Automation – RESTful APIs, GraphQL, and third-party integrations tailored to your business needs.",
+        "Database Design & Management – Scalable data models with MongoDB, PostgreSQL, and MySQL, optimized for speed and reliability.",
+        "Authentication & Security – JWT, OAuth2, SSO, and role-based access to keep your applications safe.",
+        "Payment Gateway Integration – Stripe, PayPal, and subscription-based billing systems for SaaS or eCommerce platforms.",
+        "Cross-Browser & Cross-Platform Apps – Fully optimized web apps that run seamlessly on all devices and browsers.",
+        "Microservices & Serverless Architecture – Event-driven, scalable backends using AWS Lambda, Docker, and Kubernetes.",
+        "SaaS Application Development – Multi-tenant architecture, automated workflows, and subscription management.",
+        "MVP Development Services – Quickly bring your startup idea to life with lean, functional prototypes.",
+        "Real-Time Applications – WebSockets and event-driven systems for chat apps, live dashboards, and collaborative tools.",
+        "Business Process Automation – n8n workflows, custom bots, and integrations to reduce manual effort.",
+        "Performance Optimization – Core Web Vitals tuning, caching, database indexing, and code splitting for blazing speed.",
+        "Cloud Deployment & DevOps – CI/CD pipelines with GitHub Actions, Dockerized apps on AWS, Vercel, or DigitalOcean.",
+        "Custom Admin Dashboards – Role-based dashboards for analytics, reporting, and system control.",
+        "SEO-Friendly Web Apps – Optimized architecture for better rankings, faster loading times, and higher conversions.",
+        "Cross-Platform Mobile Apps – React Native solutions for iOS and Android powered by your existing full-stack backend.",
+        "End-to-End Development Partnership – From ideation and planning to deployment and ongoing support."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "AI Automation & AI Agent Development",
+      "slug": "ai-automation-and-ai-agent-development",
+      "subtitle": "What You Will Get with Our AI Automation & AI Agent Services",
+      "details": "End-to-end full-stack solutions with scalable frontend and backend expertise.",
+      "children": [],
+      "icon": "/services/ai.png",
+      "heroImage": "/services/AI_Automation/1.webp",
+      "sectionImages": [
+        "/services/AI_Automation/2.jpg",
+        "/services/AI_Automation/3.webp",
+        "/services/AI_Automation/4.jpeg",
+        "/services/AI_Automation/5.webp"
+      ],
+      "features": [
+        "AI Agent Development – Custom AI-powered agents for customer support, sales, lead generation, and workflow automation.",
+        "Business Workflow Automation – Automate repetitive tasks with AI-driven workflows using n8n, Zapier, Make, and custom-built solutions.",
+        "Conversational AI & Chatbots – Natural language chatbots built with GPT, Rasa, Dialogflow, or custom LLMs for websites, apps, and messaging platforms.",
+        "AI-Powered Analytics & Insights – Predictive analytics, anomaly detection, and smart dashboards to make data-driven business decisions.",
+        "Email & Marketing Automation – Personalized campaigns, automated follow-ups, and AI-based audience segmentation.",
+        "Customer Support Automation – AI-driven helpdesk bots for instant query resolution across WhatsApp, Messenger, Slack, and website chat.",
+        "Lead Qualification & Sales Agents – AI agents that qualify leads, schedule meetings, and assist your sales team in real time.",
+        "API Integration with AI – Connecting AI models with CRM, ERP, and third-party apps for seamless automation.",
+        "Custom AI Model Development – Fine-tuned machine learning and LLMs trained on your business data for better accuracy.",
+        "Multilingual AI Agents – AI chat and support in multiple languages for global customer reach.",
+        "Real-Time AI Applications – Smart assistants for live dashboards, stock tracking, and real-time data monitoring.",
+        "Document & Knowledge Automation – AI-driven document parsing, smart search, and internal knowledge-base assistants.",
+        "Secure AI Deployment – Role-based access, data encryption, and compliance-focused AI workflows.",
+        "Agentic Workflows – Multi-agent systems that collaborate to handle complex business operations.",
+        "AI-Powered Payment & Billing Automation – Automated invoice generation, fraud detection, and subscription handling.",
+        "Cross-Platform AI Assistants – Deploy AI agents across web, mobile, and enterprise apps.",
+        "AI-Enhanced SaaS & MVP Development – Add AI-powered features to your SaaS or prototype new ideas with rapid AI integration.",
+        "Cloud & DevOps for AI – Scalable deployment of AI agents on AWS, GCP, or Azure with CI/CD pipelines.",
+        "Continuous Optimization – Monitoring, retraining, and fine-tuning AI models for better performance over time.",
+        "End-to-End AI Partnership – From strategy, model selection, and automation design to deployment and long-term support."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "CMS Web Development",
+      "slug": "cms-web-development",
+      "icon": "/services/cms.svg",
+      "subtitle": "What You Will Get with Our CMS Web Development",
+      "details": "Powerful CMS websites built with precision, flexibility, and seamless control.",
+      "sectionImages": [
+        "/services/CMS_Web_Development/2.png",
+        "/services/CMS_Web_Development/3.png",
+        "/services/CMS_Web_Development/4.png",
+        "/services/CMS_Web_Development/5.png"
+      ],
+      "children": [
+        {
+          "id": "wordpress",
+          "title": "WordPress",
+          "slug": "wordpress",
+          "subtitle": "What You Will Get with Our WordPress Services",
+          "image": "/services/CMS_Web_Development/Wordpress/wordpress.png",
+          "heroImage": "/services/CMS_Web_Development/Wordpress/1.jpg",
+          "sectionImages": [
+            "/services/CMS_Web_Development/Wordpress/2.jpg",
+            "/services/CMS_Web_Development/Wordpress/3.jpg",
+            "/services/CMS_Web_Development/Wordpress/4.jpg",
+            "/services/CMS_Web_Development/Wordpress/5.jpg",
+            "/services/CMS_Web_Development/Wordpress/6.jpg"
+          ],
+          "details": {
+            "title": "What You Will Get with Our WordPress Services",
+            "points": [
+              "Custom WordPress Theme – A unique, brand-aligned theme tailored to your design and functionality needs.",
+              "Theme Customization – Flex custom themes like Astra, Divi, or GeneratePress to match your style and requirements.",
+              "Custom Plugin Development – Bespoke plugins that extend your site's functionality with precision.",
+              "WooCommerce Store Setup – Fully configured eCommerce site ready for products, payments, and shipping.",
+              "WooCommerce Customization – Unique product pages, checkout flows, and integrations tailored for conversions.",
+              "WordPress Migration & Deployment – Seamless moves with zero data loss and nearly no downtime.",
+              "Ongoing Maintenance & Support – Regular updates, backups, and troubleshooting to keep your site secure and smooth.",
+              "Speed Optimization – Better loading times and performance with Core Web Vitals tuning.",
+              "Security & Malware Removal – Hardened security and malware cleanup to defend your site.",
+              "API Integrations – Connect with CRM, email tools, or other apps for automation and efficiency.",
+              "Figma/PSD to WordPress – Pixel-perfect conversion of your designs into functioning, responsive WordPress sites.",
+              "Page Builder Expertise – Masterful use of Elementor, Divi, WPBakery, Beaver Builder, Oxygen, and Brizy.",
+              "Advanced Custom Fields (ACF) – Flexible content structures and dynamic data management via ACF.",
+              "Elementor-Based Landing Pages – High-converting, SEO-friendly landing pages with visual design.",
+              "Fix WordPress Errors & Bugs – Quick resolution of runtime errors and layout issues.",
+              "SEO-Friendly Setup – Optimized site structure and elements to help your site rank higher.",
+              "Responsive & Cross-Browser Design – Great user experiences across all devices and browsers.",
+              "LMS & Membership Integrations – Build and manage platforms with LearnDash, Tutor, or membership tools.",
+              "Email & Marketing Tool Integration – Connect with Mailchimp, CRMs, or social APIs for streamlined marketing.",
+              "Speed & UX-First Design – Mobile-optimized layouts with fast rendering and intuitive interfaces."
+            ]
+          }
+        },
+        {
+          "id": "shopify",
+          "title": "Shopify",
+          "slug": "shopify",
+          "subtitle": "What You Will Get with Our Shopify Services",
+          "image": "/services/CMS_Web_Development/Shopify/shopify.svg",
+          "heroImage": "/services/CMS_Web_Development/Shopify/1.jpg",
+          "sectionImages": [
+            "/services/CMS_Web_Development/Shopify/2.jpg",
+            "/services/CMS_Web_Development/Shopify/3.jpg",
+            "/services/CMS_Web_Development/Shopify/4.jpg",
+            "/services/CMS_Web_Development/Shopify/5.jpg"
+          ],
+          "details": {
+            "title": "What You Will Get with Our Shopify Services",
+            "points": [
+              "Shopify Store Setup & Launch – End-to-end configuration with payment, shipping, taxes, and domain.",
+              "Custom Shopify Theme Development – Fully responsive, Liquid-coded themes tailored to your brand.",
+              "Theme Customization – Pixel-perfect tweaks to prebuilt themes for a unique, branded look.",
+              "Figma/PSD/XD to Shopify – Accurate design-to-code conversion with responsive layouts.",
+              "Shopify 2.0 Upgrade – Dynamic sections, faster performance, and future-proof architecture.",
+              "Shopify Plus Development – Enterprise-level scaling with advanced automation and B2B features.",
+              "Custom Shopify Apps – Private or public apps built with Node.js, Laravel, or React.",
+              "Third-Party API Integrations – CRM, ERP, payment gateways, shipping, and external tools.",
+              "WooCommerce/Magento to Shopify Migration – Secure, SEO-preserving migrations without data loss.",
+              "Shopify App Integration – Reviews, subscriptions, upsells, filters, analytics, and marketing apps.",
+              "Custom Checkout Solutions – Tailored checkout flows, one-page checkout, and custom fields.",
+              "Subscription & Membership Features – Bold, Recharge, and custom subscription models.",
+              "Conversion-Focused Landing Pages – Built with PageFly, Shogun, GemPages, or custom code.",
+              "Shopify SEO Optimization – On-page SEO, structured data, Core Web Vitals, and speed tuning.",
+              "Performance Optimization – Faster load times, mobile-first design, and UX improvements.",
+              "Product & Catalog Management – Setup, optimization, and bulk imports with variant handling.",
+              "Custom Features with Liquid & JS – Advanced coding for personalization and unique functionality.",
+              "Ongoing Maintenance & Support – Updates, troubleshooting, app setup, and bug fixes.",
+              "Multi-Language & Multi-Currency Stores – Seamless global commerce setup for Shopify Plus.",
+              "Analytics & Growth Support – Tracking setup, performance audits, and CRO-focused enhancements."
+            ]
+          }
+        },
+        {
+          "id": "webflow",
+          "title": "Webflow",
+          "slug": "webflow",
+          "subtitle": "What You Will Get with Our Webflow Services",
+          "image": "/services/CMS_Web_Development/Webflow/webflow.png",
+          "heroImage": "/services/CMS_Web_Development/Webflow/1.png",
+          "sectionImages": [
+            "/services/CMS_Web_Development/Webflow/2.jpg",
+            "/services/CMS_Web_Development/Webflow/3.jpg",
+            "/services/CMS_Web_Development/Webflow/4.jpg",
+            "/services/CMS_Web_Development/Webflow/5.jpg"
+          ],
+          "details": {
+            "title": "What You Will Get with Our Webflow Services",
+            "points": [
+              "Figma/PSD/XD/Sketch to Webflow – Pixel-perfect, responsive builds faithful to your designs.",
+              "Custom Webflow Website Development – Bespoke layouts using grids/flexbox with scalable architecture.",
+              "Webflow CMS Architecture – Collections, dynamic content, filters, search, and pagination set up right.",
+              "Advanced Animations & Interactions – Scroll, parallax, Lottie, and micro-interactions for engagement.",
+              "GSAP & Custom Motion – High-end animations powered by GSAP and custom JavaScript when needed.",
+              "Webflow E-commerce – Product/catalog setup, checkout configuration, taxes, and shipping workflows.",
+              "SEO Best Practices – Semantic HTML, structured data, meta tags, 301 redirects, and XML sitemaps.",
+              "Performance Optimization – Asset compression, lazy loading, WebP, and Core Web Vitals improvements.",
+              "Accessibility Compliance – WCAG-aligned structure, headings, alt text, and color-contrast checks.",
+              "Finsweet Client-First & Attributes – Maintainable class system, CMS filters, sliders, and tabs.",
+              "Relume/Design Systems – Style guides, tokens, and component libraries for consistent scaling.",
+              "Third-Party Integrations – HubSpot, Mailchimp, Airtable, Typeform, Zapier/Make, and more.",
+              "Analytics & Tracking – GA4, GTM, Meta/LinkedIn/TT pixels, events, and consent banner setup.",
+              "Custom Code Enhancements – Targeted HTML/CSS/JS to extend Webflow beyond native limits.",
+              "Template Customization & Redesigns – Tailor existing templates or overhaul legacy sites.",
+              "Platform Migrations to Webflow – Seamless moves from WordPress, Wix, Squarespace, Shopify, or Framer.",
+              "Multilingual & Multi-region Sites – Localized content, language switchers, and hreflang tags.",
+              "Forms & Automations – Webflow forms tied to CRM/email workflows and validation rules.",
+              "Hosting, Domain & SSL Setup – Secure go-live with CDN, redirects, password protection, and backups.",
+              "Code Export (HTML/CSS/JS) & Ongoing Support – Clean exports plus updates, fixes, and maintenance."
+            ]
+          }
+        },
+        {
+          "id": "wix",
+          "title": "WIX",
+          "slug": "wix",
+          "subtitle": "What You Will Get with Our WIX Services",
+          "image": "/services/CMS_Web_Development/WIX/wix.png",
+          "heroImage": "/services/CMS_Web_Development/WIX/1.webp",
+          "sectionImages": [
+            "/services/CMS_Web_Development/WIX/2.jpg",
+            "/services/CMS_Web_Development/WIX/3.jpg",
+            "/services/CMS_Web_Development/WIX/4.jpg",
+            "/services/CMS_Web_Development/WIX/5.jpg"
+          ],
+          "details": {
+            "title": "What You Will Get with Our WIX Services",
+            "points": [
+              "Custom Wix Website Design & Development – Unique, brand-focused websites built for engagement and performance.",
+              "Wix Studio & Editor X Expertise – Responsive, flex-based layouts designed with precision and scalability.",
+              "Figma/PSD/XD to Wix Conversion – Pixel-perfect design-to-code implementation for flawless UI.",
+              "Advanced Wix Velo Development – Custom functions, logic, and interactivity using Velo (Corvid).",
+              "E-Commerce Store Setup – Full Wix Stores configuration with products, payments, shipping, and taxes.",
+              "Membership & Booking Solutions – Seamless setup for members-only areas, bookings, and subscriptions.",
+              "Custom Interactive Widgets – Bespoke features and animations to enhance user experience.",
+              "Third-Party API Integration – Connect your Wix site to CRMs, ERPs, payment gateways, or custom APIs.",
+              "Payment Gateway Integration – Secure and optimized checkout flows for global transactions.",
+              "Wix App Integration – Connect with HubSpot, Zapier, Mailchimp, Google Analytics, and more.",
+              "Website Redesign & Revamp – Transform outdated websites into modern, conversion-driven designs.",
+              "Template Customization – Tailor pre-built Wix templates for a fully branded and unique look.",
+              "SEO Optimization – On-page SEO, metadata, URL structure, and Core Web Vitals for better rankings.",
+              "Performance & Speed Optimization – Faster load times with image compression and clean code.",
+              "Cross-Device Responsiveness – Optimized designs that work seamlessly on desktop, tablet, and mobile.",
+              "Accessibility Compliance – WCAG-friendly design ensuring usability for all audiences.",
+              "Database & Dynamic CMS Setup – Custom data collections, filters, and repeaters for scalable content.",
+              "Automation & Webhooks – Streamlined workflows with automated tasks and scheduled jobs.",
+              "Multilingual Website Development – Global-ready websites with multiple languages and currencies.",
+              "Ongoing Maintenance & Support – Regular updates, bug fixes, backups, and new feature implementation."
+            ]
+          }
+        },
+        {
+          "id": "squarespace",
+          "title": "Squarespace",
+          "slug": "squarespace",
+          "subtitle": "What You Will Get with Our Squarespace Services",
+          "image": "/services/CMS_Web_Development/Squarespace/squarespace.png",
+          "heroImage": "/services/CMS_Web_Development/Squarespace/1.webp",
+          "sectionImages": [
+            "/services/CMS_Web_Development/Squarespace/2.jpg",
+            "/services/CMS_Web_Development/Squarespace/3.jpg",
+            "/services/CMS_Web_Development/Squarespace/4.jpg",
+            "/services/CMS_Web_Development/Squarespace/5.jpg"
+          ],
+          "details": {
+            "title": "What You Will Get with Our Squarespace Services",
+            "points": [
+              "Custom Squarespace Website Design & Development – Brand-specific 7.1 builds without generic templates.",
+              "Squarespace Redesigns – Modern UX/UI refresh to boost credibility and conversions.",
+              "7.0 → 7.1 Migration – Seamless upgrade with layout parity and feature improvements.",
+              "Platform Migrations to Squarespace – Move from WordPress/Wix/Shopify with SEO preserved.",
+              "Figma/PSD/XD to Squarespace – Pixel-accurate, responsive design-to-build execution.",
+              "E-commerce Store Setup – Products, variants, shipping, taxes, and optimized checkout.",
+              "Booking & Scheduling – Acuity/Calendly setup with services, calendars, and notifications.",
+              "Member Areas & Courses – Gated content, subscriptions, and community access.",
+              "Custom Code Enhancements – HTML/CSS/JS for advanced layouts, animations, and logic.",
+              "SEO Setup & Optimization – Titles, meta, clean URLs, schema, and on-page best practices.",
+              "Speed & Performance Tuning – Image optimization, lazy loading, and CSS/JS clean-up.",
+              "Email & CRM Integrations – Mailchimp, ConvertKit, HubSpot, and list-growth automations.",
+              "Analytics & Tracking – GA4, Search Console, and ad pixels (Meta/LinkedIn/TikTok).",
+              "Domain Setup & Transfers – DNS, SSL, redirects, and domain management.",
+              "Multilingual & Locale Setup – Language switchers, localized SEO, and content structures.",
+              "Sales Funnels & Landing Pages – Conversion-focused opt-ins and campaign pages.",
+              "Blog & CMS Architecture – Categories, tags, dynamic lists, and editorial workflows.",
+              "Accessibility & Compliance – WCAG-minded structure, alt text, and keyboard navigation.",
+              "Ongoing Maintenance & Support – Content updates, quick fixes, and proactive improvements.",
+              "Extensions & Third-Party Integrations – Payment, marketing, and automation tools connected."
+            ]
+          }
+        },
+        {
+          "id": "framer",
+          "title": "Framer",
+          "slug": "framer",
+          "subtitle": "What You Will Get with Our Framer Services",
+          "image": "/services/CMS_Web_Development/Framer/framer.png",
+          "heroImage": "/services/CMS_Web_Development/Framer/1.webp",
+          "sectionImages": [
+            "/services/CMS_Web_Development/Framer/2.avif",
+            "/services/CMS_Web_Development/Framer/3.avif",
+            "/services/CMS_Web_Development/Framer/4.webp",
+            "/services/CMS_Web_Development/Framer/5.jpg"
+          ],
+          "details": {
+            "title": "What You Will Get with Our Framer Services",
+            "points": [
+              "Framer Website Design & Development – Custom-built sites, from high-converting landing pages to multi-page experiences.",
+              "Figma to Framer Conversion – Pixel-perfect translation of your designs with clean components and responsive breakpoints.",
+              "Responsive Layouts – Optimized for desktop, tablet, and mobile with adaptive constraints and fluid grids.",
+              "Custom Animations & Micro-Interactions – Scroll, reveal, hover, and state-based effects crafted for engagement.",
+              "Reusable Components & Design System – Tokens, components, and variants for consistency and easy scaling.",
+              "Framer CMS & Dynamic Content – Collections for blogs, case studies, and portfolios with easy authoring.",
+              "Blog Setup & Content Architecture – Category/tag filters, pagination, and structured templates for fast publishing.",
+              "Advanced Forms & Lead Capture – Multi-step forms, validations, and data capture connected to your tools.",
+              "Third-Party Integrations – CRM, email, chat, and automations via embeds, webhooks, Zapier/Make, or custom code.",
+              "Framer + Shopify E-commerce – Product embeds, custom product pages, and streamlined checkout handoff.",
+              "Custom Code Enhancements – HTML/CSS/JS snippets for logic and features beyond native Framer.",
+              "Performance Optimization – Image handling, lazy loading, and animation tuning for fast load times.",
+              "SEO Implementation – Semantic structure, meta/OG tags, sitemap, and redirects for better visibility.",
+              "Accessibility Best Practices – Keyboard navigation, color contrast, and ARIA patterns where applicable.",
+              "Analytics & Tracking Setup – GA4, GTM, Meta Pixel, and event tracking for accurate attribution.",
+              "A/B Testing & CRO Support – Variant pages, hypotheses, and reporting to lift conversions.",
+              "Migration to Framer – Seamless moves from Webflow, WordPress, Squarespace, or custom sites with redirects.",
+              "Redesign & Optimization – UI/UX refreshes and refactors of existing Framer sites to improve outcomes.",
+              "Ongoing Maintenance & Support – Updates, fixes, content changes, and proactive performance checks.",
+              "Training & Handover – Editor training, component usage docs, and walkthrough videos for your team."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "App Development",
+      "slug": "app-development",
+      "icon": "/services/app.svg",
+      "subtitle": "What You Will Get with Our App Development Services",
+      "details": "Innovative Android and iOS app solutions designed to elevate business growth.",
+      "heroImage": "/services/App_Development/1.jpg",
+      "sectionImages": [
+        "/services/App_Development/2.png",
+        "/services/App_Development/3.png",
+        "/services/App_Development/4.png",
+        "/services/App_Development/5.png"
+      ],
+      "children": [
+        {
+          "id": "android",
+          "title": "Android App",
+          "slug": "android-app",
+          "image": "/services/android.png",
+          "heroImage": "/services/App_Development/Android/3.jpg",
+          "sectionImages": [
+            "/services/App_Development/Android/2.jpg",
+            "/services/App_Development/Android/3.jpg"
+          ],
+          "details": {
+            "title": "Android App Development",
+            "points": [
+              "Native Android Apps – Built with Kotlin & Java for maximum performance and reliability.",
+              "Jetpack Compose UI – Modern, declarative UI for smoother and faster Android experiences.",
+              "Secure Authentication – Biometric login, OAuth 2.0, and multi-factor authentication.",
+              "Offline Functionality – Apps with offline storage and seamless sync when reconnected.",
+              "Google Play Store Deployment – End-to-end publishing, compliance, and app approvals.",
+              "API & Backend Integration – RESTful APIs, GraphQL, and Firebase for real-time data.",
+              "Payment Gateway Integration – Stripe, PayPal, Razorpay, Google Pay for secure transactions.",
+              "Push Notifications & In-App Messaging – Firebase Cloud Messaging and personalized alerts.",
+              "Performance Optimization – Battery efficiency, caching, and load time improvements.",
+              "Testing & QA – Espresso, JUnit, and automation to ensure bug-free app releases."
+            ]
+          }
+        },
+        {
+          "id": "ios",
+          "title": "iOS App",
+          "slug": "ios-app",
+          "image": "/services/apple.png",
+          "heroImage": "/services/App_Development/iOS/1.webp",
+          "sectionImages": [
+            "/services/App_Development/iOS/2.jpg",
+            "/services/App_Development/iOS/3.jpg"
+          ],
+          "details": {
+            "title": "iOS App Development",
+            "points": [
+              "Native iOS Apps – High-performance apps using Swift, SwiftUI, and Objective-C.",
+              "Elegant UI/UX – Following Apple Human Interface Guidelines for pixel-perfect design.",
+              "Core Data & Local Storage – Efficient offline data handling with Core Data and SQLite.",
+              "App Store Submission & Compliance – End-to-end publishing with App Store approval support.",
+              "Secure Transactions – Apple Pay, Stripe, and in-app purchases with strict Apple standards.",
+              "Advanced iOS Features – Face ID, Touch ID, Siri integration, and ARKit experiences.",
+              "Real-Time Data Sync – Firebase, WebSockets, and iCloud for live app updates.",
+              "Performance Optimization – Memory management, multithreading, and battery efficiency.",
+              "CI/CD & Automation – Fastlane, Xcode Cloud, and GitHub Actions for seamless delivery.",
+              "Rigorous Testing – XCTest, XCUITest, and TestFlight beta testing for stable releases."
+            ]
+          }
+        },
+        {
+          "id": "cross-platform",
+          "title": "Cross-Platform App",
+          "slug": "cross-platform-app-development",
+          "image": "/services/cross.png",
+          "heroImage": "/services/App_Development/Cross/1.jpg",
+          "sectionImages": [
+            "/services/App_Development/Cross/2.jpg",
+            "/services/App_Development/Cross/3.jpg"
+          ],
+          "details": {
+            "title": "Cross-Platform App Development",
+            "points": [
+              "Flutter & React Native Development – Build apps with a single codebase for Android & iOS.",
+              "Native-Like Performance – Smooth animations, fast rendering, and a near-native experience.",
+              "Cost-Effective Development – Faster delivery by maintaining one codebase across platforms.",
+              "Consistent UI/UX – Pixel-perfect design across iOS, Android, tablets, and web apps.",
+              "API & Backend Integration – RESTful APIs, GraphQL, Firebase, and third-party services.",
+              "Real-Time Features – Live chat, notifications, geolocation, and in-app messaging.",
+              "App Store & Play Store Publishing – Complete submission, approval, and compliance support.",
+              "Secure Payments & Authentication – Stripe, PayPal, Apple Pay, Google Pay, and biometrics.",
+              "Offline-First Functionality – Local database storage and seamless sync with servers.",
+              "Continuous Maintenance – Ongoing updates, bug fixes, and cross-platform optimization."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "UI/UX Design (Web and Mobile App)",
+      "slug": "ui-ux-design",
+      "icon": "/services/ui.svg",
+      "subtitle": "What You Will Get with Our UI/UX Design Services",
+      "details": "User-focused UI/UX design delivering intuitive, engaging, and impactful experiences.",
+      "children": [],
+      "heroImage": "/services/UI_UX_Design/1.jpg",
+      "sectionImages": [
+        "/services/UI_UX_Design/2.jpg",
+        "/services/UI_UX_Design/3.jpg",
+        "/services/UI_UX_Design/4.jpg",
+        "/services/UI_UX_Design/5.jpg"
+      ],
+      "features": [
+        "Website & Mobile App UI/UX Design – Clean, responsive, and user-friendly interfaces for web and native apps (iOS & Android).",
+        "SaaS Platform Design – Intuitive dashboards, workflows, and product experiences tailored for SaaS businesses.",
+        "Landing Page Design – High-converting, CRO-optimized landing pages designed to engage and convert.",
+        "Dashboard & Web Application Design – Data-driven, functional, and user-centric dashboards with clear visual hierarchy.",
+        "Wireframing – Low-fidelity and high-fidelity wireframes to define layouts and user flows before development.",
+        "Prototyping – Interactive, clickable prototypes to test functionality and user experience early on.",
+        "UX Strategy & Research – User research, persona development, and journey mapping for data-backed design decisions.",
+        "User Flow Analysis – Optimized flows to ensure users move smoothly from entry point to conversion.",
+        "Customer Journey Mapping – Identifying key touchpoints and improving customer experience across platforms.",
+        "Responsive & Adaptive Design – Seamless design across all devices and screen sizes (desktop, tablet, mobile).",
+        "E-commerce Design – Conversion-optimized product pages, checkout flows, and user-friendly catalog structures.",
+        "CRM & Enterprise System Design – Complex systems (ERP, HRM, CRM) with clear, productivity-driven UX/UI.",
+        "Design Systems & UI Kits – Reusable components, tokens, and documentation for scalable design.",
+        "Microinteractions & Animations – Smooth, engaging transitions, hover states, and motion design for better usability.",
+        "Style Guides & Branding – Consistent visual identity with typography, colors, and UI elements defined.",
+        "UX Audits – In-depth reviews of your existing website/app to identify usability issues and improvements.",
+        "Accessibility-Focused Design – Interfaces designed to meet WCAG standards for inclusive usability.",
+        "Handoff to Development – Pixel-perfect Figma files, design specs, and assets prepared for seamless dev integration.",
+        "Usability Testing – Iterative testing of prototypes and flows with real users for validation.",
+        "Redesign & Optimization – Revamp outdated websites/apps with modern UI/UX principles for improved performance."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Analytics and Conversion Tracking",
+      "slug": "analytics-and-conversion-tracking",
+      "icon": "/services/analytics.svg",
+      "subtitle": "What You Will Get with Our Analytics and Conversion Tracking Services",
+      "details": "Accurate analytics with advanced tracking to maximize conversions and revenue.",
+      "heroImage": "/services/Analytics_and_Conversion_Tracking/1.webp",
+      "sectionImages": [
+        "/services/Analytics_and_Conversion_Tracking/2.jpg",
+        "/services/Analytics_and_Conversion_Tracking/3.jpg",
+        "/services/Analytics_and_Conversion_Tracking/4.jpg",
+        "/services/Analytics_and_Conversion_Tracking/5.jpg"
+      ],
+      "features": [
+        "GA4 Setup & Migration – Full migration from Universal Analytics to GA4 with accurate event mapping.",
+        "Enhanced E-commerce Tracking – Track product views, add-to-cart, checkout, and purchase events with revenue data.",
+        "Google Tag Manager Setup – Install, configure, and manage GTM containers, tags, triggers, and variables.",
+        "Event & Conversion Tracking – Button clicks, form submissions, video plays, scroll depth, and file downloads.",
+        "Cross-Domain & Subdomain Tracking – Seamless tracking across multiple websites and domains.",
+        "Ads Conversion Tracking – Setup for Google Ads, Bing Ads, Facebook, LinkedIn, TikTok, Snapchat, Pinterest, and Twitter.",
+        "Enhanced Conversions for Google Ads – Capture customer data for more accurate attribution and reporting.",
+        "Facebook Pixel & Conversion API – Browser-side and server-side tracking with event deduplication.",
+        "TikTok Pixel & Event API – Track ad interactions, conversions, and in-app events for TikTok Ads.",
+        "Server-Side Tracking – Implement CAPI for Facebook, TikTok, Snapchat, and Google Ads via Stape.io or Google Cloud.",
+        "Funnel & Goal Setup – Track complete user journeys from first click to final conversion.",
+        "UTM Parameter Tracking – Ensure campaign attribution accuracy across ads, emails, and organic channels.",
+        "Custom Reports & Dashboards – Build insightful reports in GA4, Looker Studio, and Power BI.",
+        "Shopify, WooCommerce & Magento Tracking – Full e-commerce event tracking with GA4 & Ads integration.",
+        "Lead Form Tracking – Track forms from HubSpot, Elementor, Gravity, Typeform, Calendly, Acuity, and more.",
+        "Call Tracking Setup – Google Ads call conversions, CallRail, or custom phone number tracking.",
+        "Cookie Consent & GDPR/CCPA Compliance – Google Consent Mode v2 setup with tools like Cookiebot or Usercentrics.",
+        "Dynamic Remarketing Tags – Google Ads and Facebook dynamic catalogs for product-based remarketing.",
+        "Heatmaps & Session Recordings – Hotjar or Microsoft Clarity setup for behavioral insights.",
+        "Debugging & Audits – Identify and fix tracking issues, misfiring tags, and revenue mismatches."
+      ],
+      "children": []
+    },
+    {
+      "id": 7,
+      "title": "Google Ads",
+      "slug": "google-ads",
+      "icon": "/services/gooogle.svg",
+      "subtitle": "What You Will Get with Our Google Ads Services",
+      "details": "Targeted Google Ads campaigns built to drive traffic, leads, and measurable ROI.",
+      "children": [],
+      "heroImage": "/services/Google_Ads/1.webp",
+      "sectionImages": [
+        "/services/Google_Ads/2.webp",
+        "/services/Google_Ads/3.jpg",
+        "/services/Google_Ads/4.jpg",
+        "/services/Google_Ads/5.jpg"
+      ],
+      "features": [
+        "Complete Google Ads Account Setup – Proper account structure, campaigns, ad groups, and conversion goals.",
+        "Keyword Research & Mapping – High-intent, long-tail, and negative keyword lists to reduce wasted spend.",
+        "Campaign Mix Implementation – Search, Display, Shopping, YouTube, and Performance Max campaign builds.",
+        "Shopping & Merchant Center Optimization – Product feed setup, fixes, custom labels, and promotions.",
+        "Performance Max Strategy – Asset groups, audience signals, and conversion-focused optimization.",
+        "Ad Creation & Copywriting – Responsive search ads, expanded text, call ads, and video creatives.",
+        "A/B Testing & Experiments – Systematic split-tests for headlines, descriptions, and creative assets.",
+        "Bid Strategy & Budget Management – Smart bidding (tCPA/tROAS), manual bids, pacing and budget controls.",
+        "Audience Targeting & Segmentation – Remarketing, in-market, affinity, and custom intent audiences.",
+        "Dynamic Remarketing & RLSA – Re-engage past visitors with tailored ads and dynamic product feeds.",
+        "Landing Page CRO Recommendations – UX, relevance, speed, and form optimizations to raise CVR.",
+        "Conversion Tracking & Attribution – GA4, GTM, enhanced conversions, and cross-device attribution.",
+        "Call & Offline Conversion Tracking – CallRail/Call Tracking Metrics and offline import workflows.",
+        "Negative Keyword Hygiene – Ongoing query mining and exclusion lists to improve efficiency.",
+        "Quality Score Optimization – Improve relevance, CTR, and landing experience to lower CPC.",
+        "Geo, Device & Ad Schedule Optimization – Bid adjustments by location, device, and time-of-day.",
+        "Merchant/Feed Troubleshooting & Enhancements – Fix feed errors, map attributes, and optimize titles.",
+        "Reporting & Dashboards – Custom Looker Studio/Data Studio dashboards and actionable monthly reports.",
+        "Account Audits & Priority Roadmap – Comprehensive audits with quick wins and long-term recommendations.",
+        "Continuous Optimization & Scaling – Weekly optimization sprints, scale-up of winners, and ROAS focus."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "SEO",
+      "slug": "seo",
+      "icon": "/services/seo.svg",
+      "subtitle": "What You Will Get with Our SEO Services",
+      "details": "Comprehensive SEO strategies to boost rankings, visibility, and organic traffic.",
+      "children": [],
+      "features": [
+        "Comprehensive SEO Audit – Identify technical, on-page, and off-page issues holding back rankings.",
+        "Strategic Keyword Research – Target high-traffic, buyer-intent keywords for maximum ROI.",
+        "Competitor Analysis – Uncover competitor strategies and find untapped opportunities.",
+        "On-Page SEO Optimization – Meta tags, headers, URLs, schema, and content alignment.",
+        "Technical SEO Fixes – Crawl errors, indexing, speed, Core Web Vitals, and mobile optimization.",
+        "High-Quality Backlink Building – White-hat guest posts, citations, and authority links.",
+        "Off-Page SEO Strategies – Link building, outreach, social signals, and authority growth.",
+        "Local SEO Optimization – Google Business Profile setup, citations, and maps ranking.",
+        "Content Optimization – Improve blog posts, product pages, and landing pages for higher visibility.",
+        "SEO-Friendly Site Structure – Internal linking, sitemap, and navigation improvements.",
+        "E-commerce SEO – Optimize product pages, categories, and schema for Shopify/WooCommerce stores.",
+        "Voice Search & Mobile SEO – Capture traffic from mobile-first and voice queries.",
+        "Structured Data & Schema Markup – Boost visibility with rich snippets and featured results.",
+        "Link Detox & Spam Removal – Disavow harmful backlinks and protect domain authority.",
+        "Analytics & Reporting – Monthly reports with rank tracking, traffic insights, and conversion data.",
+        "Conversion Rate Optimization (CRO) – Align SEO with sales by improving on-site conversions.",
+        "International SEO – Hreflang setup, multilingual optimization, and geo-targeting.",
+        "Video & YouTube SEO – Titles, tags, descriptions, and playlists optimized for ranking.",
+        "SEO Tool Integration – Google Search Console, GA4, SEMrush, Ahrefs setup & tracking.",
+        "Ongoing SEO Maintenance – Continuous monitoring, updates, and algorithm compliance."
+      ],
+      "heroImage": "/services/SEO/1.webp",
+      "sectionImages": [
+        "/services/SEO/2.webp",
+        "/services/SEO/3.jpg",
+        "/services/SEO/4.jpg",
+        "/services/SEO/5.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Graphics Design",
+      "slug": "graphics-design",
+      "icon": "/services/grahphics.svg",
+      "subtitle": "What You Will Get with Our Graphics Design Services",
+      "details": "Creative graphic designs that strengthen branding, marketing, and visual identity.",
+      "children": [],
+      "heroImage": "/services/Graphics_Design/1.jpg",
+      "sectionImages": [
+        "/services/Graphics_Design/2.jpg",
+        "/services/Graphics_Design/3.jpg",
+        "/services/Graphics_Design/4.jpg",
+        "/services/Graphics_Design/5.jpg"
+      ],
+      "features": [
+        "Custom Logo Design – Unique, professional, and scalable logos tailored to your brand identity.",
+        "Complete Brand Identity Systems – Logos, typography, color palettes, and style guides for consistency.",
+        "Social Media Graphics – Engaging posts, carousels, reels covers, and story templates for Instagram, Facebook, and LinkedIn.",
+        "Canva Templates – Editable templates for posts, ads, and presentations to keep your content on-brand.",
+        "Ad Creative Design – High-converting visuals for Facebook, Instagram, LinkedIn, TikTok, and Google Ads.",
+        "YouTube & Video Thumbnails – Eye-catching thumbnails designed to maximize clicks and views.",
+        "Website Graphics & Banners – Custom visuals for landing pages, blogs, and e-commerce stores.",
+        "Pitch Deck & Presentation Design – Investor-ready decks in PowerPoint, Google Slides, or Canva.",
+        "Infographics & Data Visualization – Simplified and attractive designs for complex data and reports.",
+        "Business Cards & Stationery – Professionally designed business cards, letterheads, and envelopes.",
+        "Flyers, Posters & Brochures – Print and digital marketing materials optimized for readability and impact.",
+        "Packaging & Label Design – Attractive product packaging and label designs that stand out on shelves.",
+        "Event & Conference Materials – Banners, signage, roll-ups, and branded displays.",
+        "E-book & Workbook Design – Professionally formatted digital products, journals, and guides.",
+        "Marketing Collateral – Sales sheets, catalogs, menus, and pricing guides aligned with your brand.",
+        "Apparel & Merchandise Design – Custom designs for T-shirts, mugs, tote bags, and more.",
+        "Cover Arts & Album Designs – Creative visuals for music, podcasts, and digital media.",
+        "Illustration & Icon Design – Custom icons, line art, and vector graphics for apps or branding.",
+        "Seasonal & Campaign Graphics – Holiday campaigns, special promotions, and event-specific visuals.",
+        "Brand Style Guides – Comprehensive visual guidelines to ensure consistency across all platforms."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Video Editing",
+      "slug": "video-editing",
+      "icon": "/services/video.svg",
+      "subtitle": "What You Will Get with Our Video Editing Services",
+      "details": "High-quality video editing tailored for marketing, branding, and storytelling.",
+      "children": [],
+      "heroImage": "/services/Video_Editing/1.webp",
+      "sectionImages": [
+        "/services/Video_Editing/2.jpg",
+        "/services/Video_Editing/3.jpg",
+        "/services/Video_Editing/4.jpg",
+        "/services/Video_Editing/5.jpg"
+      ],
+      "features": [
+        "Professional YouTube Video Editing – Engaging cuts, pacing, intros/outros, and optimized storytelling.",
+        "Short-Form Content – Trend-based Reels, Shorts, and TikToks designed to capture attention in the first 3 seconds.",
+        "Faceless Automation Videos – Stock footage, AI voiceovers, and seamless edits for cash cow YouTube channels.",
+        "Talking Head Videos – Clean edits with captions, jump cuts, graphics, and dynamic pacing for tutorials, podcasts, or coaching.",
+        "Cinematic Color Grading – Hollywood-style grading to give your videos a professional, polished look.",
+        "Motion Graphics & VFX – Stunning titles, transitions, and special effects that make your videos stand out.",
+        "Podcast & Interview Editing – Multi-cam switching, background noise removal, and subtitles for professional delivery.",
+        "Corporate & Business Videos – Polished explainer, training, and internal communication edits tailored to your brand.",
+        "Promotional & Ad Videos – High-impact ads for Facebook, Instagram, TikTok, LinkedIn, and YouTube.",
+        "E-Commerce Product Videos – Compelling edits for Amazon, Shopify, and dropshipping stores that boost conversions.",
+        "Wedding & Event Highlights – Emotional storytelling with smooth transitions, music syncing, and cinematic quality.",
+        "Real Estate Video Editing – Stunning walkthroughs, aerial footage integration, and property showcase edits.",
+        "Vlog Editing – Engaging travel, lifestyle, and challenge videos with trendy cuts, effects, and transitions.",
+        "Educational & Online Course Editing – Clean, professional edits for e-learning, webinars, and Zoom lectures.",
+        "Music Video Editing – Creative cuts, effects, and pacing that align with your sound and style.",
+        "Social Media Content – Platform-optimized videos for Facebook, Instagram, LinkedIn, and more.",
+        "Explainer Videos – Animated or live-action edits that clearly explain products, services, or business concepts.",
+        "Sports & Fitness Videos – High-energy edits with dynamic effects, motion tracking, and motivational pacing.",
+        "Fast Turnaround Editing – Quick delivery without compromising on quality for time-sensitive projects.",
+        "Audio Enhancement & Sound Design – Crystal-clear audio, background noise reduction, and immersive soundscapes."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Cyber Security",
+      "slug": "cyber-security",
+      "icon": "/services/cyber.svg",
+      "subtitle": "What You Will Get with Our Cyber Security Services",
+      "details": "Advanced cybersecurity services to protect digital assets from evolving threats.",
+      "children": [],
+      "heroImage": "/services/Cyber_Security/1.jpg",
+      "sectionImages": [
+        "/services/Cyber_Security/2.jpg",
+        "/services/Cyber_Security/3.jpg",
+        "/services/Cyber_Security/4.jpg",
+        "/services/Cyber_Security/5.jpg"
+      ],
+      "features": [
+        "Penetration Testing – Identify vulnerabilities in web, mobile, cloud, APIs, and network environments.",
+        "Vulnerability Assessment – Scan and prioritize risks with actionable remediation guidance.",
+        "Red Teaming & Threat Simulation – Simulate real-world attacks to test defense readiness.",
+        "Cloud Security Audits – Secure AWS, Azure, and GCP configurations against misconfigurations.",
+        "Zero Trust Implementation – Deploy identity-driven security across applications and infrastructure.",
+        "Security Architecture Review – Build resilient, scalable, and secure IT ecosystems.",
+        "Incident Response & Threat Mitigation – Rapid response to contain and recover from breaches.",
+        "Managed Security Services – Continuous monitoring, alerting, and security advisory.",
+        "Virtual CISO (vCISO) – On-demand leadership for governance, compliance, and strategy.",
+        "Compliance Assessments – Align with ISO 27001, NIST, SOC 2, HIPAA, GDPR, and more.",
+        "SIEM & Log Monitoring – Detect anomalies with tools like ELK, Sentinel, and CrowdStrike.",
+        "Identity & Access Management (IAM) – Secure authentication, SSO, MFA, and privileged access.",
+        "DevSecOps & CI/CD Security – Integrate security testing directly into development pipelines.",
+        "Endpoint Detection & Response (EDR) – Protect devices with advanced detection and monitoring.",
+        "Security Awareness Training – Educate teams to prevent phishing, social engineering, and insider threats.",
+        "Digital Forensics – Investigate cyber incidents, breaches, and malware infections.",
+        "Risk Management & Governance – Identify, evaluate, and mitigate organizational security risks.",
+        "Smart Contract & Blockchain Security – Audit decentralized apps, wallets, and Web3 environments.",
+        "Disaster Recovery & Business Continuity – Plan and test resilience against cyberattacks and outages.",
+        "Data Privacy & Regulatory Compliance – GDPR, PCI-DSS, and industry-specific security frameworks."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Social Media Marketing",
+      "slug": "social-media-marketing",
+      "icon": "/services/social.svg",
+      "subtitle": "What You Will Get with Our Social Media Marketing Services",
+      "details": " Strategic social media campaigns that grow visibility, engagement, and authority.",
+      "heroImage": "/services/Social_Media_Marketing/social.webp",
+      "sectionImages": [
+        "/services/Social_Media_Marketing/2.png",
+        "/services/Social_Media_Marketing/3.png",
+        "/services/Social_Media_Marketing/4.png",
+        "/services/Social_Media_Marketing/5.png"
+      ],
+      "children": [
+        {
+          "id": "meta-ads",
+          "title": "Meta Ads",
+          "slug": "meta-ads",
+          "subtitle": "What You Will Get with Our Meta Ads Services",
+          "image": "/services/Social_Media_Marketing/meta.png",
+          "heroImage": "/services/Social_Media_Marketing/Meta_Ads/1.jpg",
+          "sectionImages": [
+            "/services/Social_Media_Marketing/Meta_Ads/2.jpg",
+            "/services/Social_Media_Marketing/Meta_Ads/3.jpg"
+          ],
+          "details": {
+            "description": "Meta (Facebook & Instagram) ad campaign management and optimization.",
+            "points": [
+              "Ad Account Setup – Business Manager, Pixel integration, domain verification & compliance.",
+              "Campaign Creation – Traffic, Conversions, Lead Gen, Awareness, and Retargeting.",
+              "Advanced Audience Targeting – Custom & Lookalike audiences for maximum ROI.",
+              "Funnel Strategy – Full-funnel approach from awareness to conversion.",
+              "Creative Testing – A/B testing for images, videos, and ad copy.",
+              "Conversion Rate Optimization – Improve landing page & ad performance.",
+              "Retargeting Campaigns – Bring back lost visitors with tailored ads.",
+              "Budget Optimization – Smart allocation for cost-effective ad spend.",
+              "Performance Tracking – Data-driven adjustments with Ads Manager & Analytics.",
+              "Continuous Campaign Optimization – Lower CPA and maximize sales results."
+            ]
+          }
+        },
+        {
+          "id": "content-creation",
+          "title": "Content Creation",
+          "slug": "content-creation",
+          "subtitle": "What You Will Get with Our Content Creation Services",
+          "image": "/services/Social_Media_Marketing/content.png",
+          "heroImage": "/services/Social_Media_Marketing/Content_Creation/1.jpg",
+          "sectionImages": [
+            "/services/Social_Media_Marketing/Content_Creation/2.jpg",
+            "/services/Social_Media_Marketing/Content_Creation/3.jpg"
+          ],
+          "details": {
+            "points": [
+              "Professional Post Design – Branded graphics, carousels, and ad creatives.",
+              "Short-Form Video Editing – Instagram Reels, TikTok, and YouTube Shorts.",
+              "Long-Form Video Editing – YouTube videos, interviews, and promotional content.",
+              "UGC (User-Generated Content) – Authentic, relatable content for higher engagement.",
+              "Copywriting – Engaging captions, ad copy, and storytelling posts.",
+              "Hashtag Research – Data-backed hashtags for reach and discoverability.",
+              "Brand Consistency – Cohesive colors, fonts, and styles across platforms.",
+              "Interactive Content – Polls, quizzes, and story templates for engagement.",
+              "Content Calendar – Planned posting schedule for consistency.",
+              "Multi-Platform Adaptation – Optimized content for Instagram, Facebook, TikTok & LinkedIn."
+            ]
+          }
+        },
+        {
+          "id": "facebook-management",
+          "title": "Facebook Management",
+          "slug": "facebook-management",
+          "subtitle": "What You Will Get with Our Facebook Management Services",
+          "image": "/services/Social_Media_Marketing/facebook.png",
+          "heroImage": "/services/Social_Media_Marketing/Facebook_Management/1.jpg",
+          "sectionImages": [
+            "/services/Social_Media_Marketing/Facebook_Management/2.jpg",
+            "/services/Social_Media_Marketing/Facebook_Management/3.jpg"
+          ],
+          "details": {
+            "points": [
+              "Page Setup & Optimization – Bio, cover design, CTA buttons & branding.",
+              "Content Creation – Posts, stories, and branded visuals.",
+              "Post Scheduling – Consistent posting using industry tools.",
+              "Organic Audience Growth – Engagement strategies without paid ads.",
+              "Community Management – Responding to comments & inbox messages.",
+              "Hashtag & Trend Research – Tailored to your business niche.",
+              "Campaign Management – Facebook Ads setup, targeting, and optimization.",
+              "Analytics & Insights – Track performance and refine strategy.",
+              "Content Repurposing – Adapt posts into videos, stories, or ads.",
+              "Monthly Reporting – Growth, engagement, and ROI reports."
+            ]
+          }
+        },
+        {
+          "id": "instagram-management",
+          "title": "Instagram Management",
+          "slug": "instagram-management",
+          "subtitle": "What You Will Get with Our Instagram Management Services",
+          "image": "/services/Social_Media_Marketing/instagram.png",
+          "heroImage": "/services/Social_Media_Marketing/Instagram_Management/1.webp",
+          "sectionImages": [
+            "/services/Social_Media_Marketing/Instagram_Management/2.jpg",
+            "/services/Social_Media_Marketing/Instagram_Management/3.jpg"
+          ],
+          "details": {
+            "points": [
+              "Profile Optimization – Bio, highlights, CTA setup, and branding.",
+              "Content Creation – Posts, reels, stories, and carousel designs.",
+              "Reels Video Editing – Short-form videos optimized for engagement.",
+              "Organic Growth – Targeted strategies for real, active followers.",
+              "Hashtag Research – Niche-specific SEO-friendly hashtags.",
+              "Engagement Management – Replying to comments, DMs & audience interaction.",
+              "Influencer Outreach – Collaboration strategy for brand awareness.",
+              "Content Scheduling – Consistent posting calendar with analytics.",
+              "Copywriting – Scroll-stopping captions with CTA-driven messages.",
+              "Performance Tracking – Growth reports & strategy adjustments."
+            ]
+          }
+        },
+        {
+          "id": "linkedin-management",
+          "title": "LinkedIn Management",
+          "slug": "linkedin-management",
+          "subtitle": "What You Will Get with Our LinkedIn Management Services",
+          "image": "/services/Social_Media_Marketing/linkedin.png",
+          "heroImage": "/services/Social_Media_Marketing/LinkedIn_Management/1.jpg",
+          "sectionImages": [
+            "/services/Social_Media_Marketing/LinkedIn_Management/2.webp",
+            "/services/Social_Media_Marketing/LinkedIn_Management/3.jpg"
+          ],
+          "details": {
+            "points": [
+              "Profile Optimization – Professional setup for individuals & company pages.",
+              "Content Creation – Thought-leadership posts, articles & carousels.",
+              "Ghostwriting – Polished posts tailored to your brand voice.",
+              "Lead Generation – Outreach campaigns via Sales Navigator.",
+              "Networking Strategy – Personalized connection requests & follow-ups.",
+              "Engagement Management – Commenting, inbox responses, and community growth.",
+              "LinkedIn Ads Management – Targeted ad funnels for B2B & B2C.",
+              "Branding Support – Visual consistency with graphics & templates.",
+              "Content Calendar – Structured publishing plan for consistency.",
+              "Analytics & Reporting – Growth, engagement, and campaign insights."
+            ]
+          }
+        },
+        {
+          "id": "youtube-automation-seo",
+          "title": "YouTube Automation and SEO",
+          "slug": "youtube-automation-seo",
+          "subtitle": "What You Will Get with Our YouTube Automation and SEO Services",
+          "image": "/services/Social_Media_Marketing/youtube.png",
+          "heroImage": "/services/Social_Media_Marketing/YouTube_Automation_and_SEO/1.jpg",
+          "sectionImages": [
+            "/services/Social_Media_Marketing/YouTube_Automation_and_SEO/2.jpg",
+            "/services/Social_Media_Marketing/YouTube_Automation_and_SEO/3.jpg"
+          ],
+          "details": {
+            "points": [
+              "Channel Setup – Branding, banners, playlists & SEO optimization.",
+              "Keyword Research – Low-competition, high-search keyword targeting.",
+              "Script Writing – Engaging scripts with viral hooks & storytelling.",
+              "Professional Voiceovers – Human or AI options for flexibility.",
+              "Video Editing – B-roll, captions, transitions & retention-boosting edits.",
+              "Thumbnail Design – CTR-optimized, eye-catching designs.",
+              "SEO Optimization – Titles, tags, descriptions & metadata.",
+              "Channel Management – Uploads, scheduling & end-screen optimization.",
+              "Monetization Strategy – Guidance to reach 1k subs & 4k watch hours.",
+              "Competitor Research – Track industry trends & outperform rivals."
+            ]
+          }
+        },
+        {
+          "id": "tiktok-management",
+          "title": "TikTok",
+          "slug": "tiktok-management",
+          "image": "/services/Social_Media_Marketing/tiktok.png",
+          "heroImage": "/services/Social_Media_Marketing/TikTok/1.webp",
+          "sectionImages": [
+            "/services/Social_Media_Marketing/TikTok/2.webp",
+            "/services/Social_Media_Marketing/TikTok/3.jpg"
+          ],
+          "details": {
+            "points": [
+              "TikTok Shop Setup – Complete account & product listing optimization.",
+              "TikTok Shop Management – Daily handling of store & order processes.",
+              "Product SEO – Optimized titles, descriptions & keywords.",
+              "Influencer Outreach – Connect with creators for product promotion.",
+              "Affiliate Marketing – Set up & manage affiliate programs for sales.",
+              "TikTok Video Editing – UGC-style, engaging, scroll-stopping videos.",
+              "Campaign Setup – Flash deals, coupons & promotional ads.",
+              "TikTok Ads Management – Paid ads with ROI-focused optimization.",
+              "Analytics & Reporting – Track engagement, views & conversions.",
+              "Competitor Research – Market analysis for strategic positioning."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
