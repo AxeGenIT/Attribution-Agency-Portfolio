@@ -1,0 +1,169 @@
+/* Add Martian-B-Thai font */
+/* @font-face {
+  font-family: 'Martian-B-Thai';
+  src: url('/fonts/fonnts.com-martianbthai-regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.container{
+  @apply mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+
+/* Disable smooth scrolling to prevent repaint jank on fast scroll */
+html {
+  scroll-behavior: smooth;
+  background-color: #06101A; /* Ensure dark background behind all sections */
+}
+
+
+/* Shine Border Animation */
+@keyframes shine {
+  0% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+
+@keyframes process-shine {
+  0% {
+    background-position: 0% 0%;
+  }
+  25% {
+    background-position: 100% 0%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+  75% {
+    background-position: 0% 100%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+.glow-text{
+   --glow: 189 100% 50%;
+    --glow-subtle: 189 100% 30%;
+    text-shadow: 0 0 20px hsl(var(--glow) / 0.5), 0 0 40px hsl(var(--glow) / 0.3);
+}
+.shine-border {
+  --border-width: 3px;
+  --duration: 14s;
+  background-image: radial-gradient(
+    transparent,
+    transparent,
+    #09E3E9,
+    #07f4fa,
+    #09E3E9,
+    transparent,
+    transparent
+  );
+  background-size: 300% 300%;
+  animation: shine var(--duration) linear infinite;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  padding: var(--border-width);
+}
+.group:hover .shine-border {
+  --duration: 8s;
+  background-image: radial-gradient(
+    transparent,
+    transparent,
+    #09E3E9,
+    #07f4fa,
+    #09E3E9,
+    transparent,
+    transparent
+  );
+}
+
+/* Process Card Shine Border */
+.process-shine-border {
+  --border-width: 2px;
+  --duration: 12s;
+  --shine-color: #06b6d4;
+  background-image: radial-gradient(
+    circle at 50% 50%,
+    transparent 30%,
+    var(--shine-color),
+    var(--shine-color),
+    transparent 70%
+  );
+  background-size: 400% 400%;
+  animation: process-shine var(--duration) linear infinite;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  padding: var(--border-width);
+  opacity: 0.8;
+}
+
+/* Enhanced hover effect for process cards */
+.group:hover .process-shine-border {
+  --duration: 6s;
+  opacity: 1;
+  background-image: radial-gradient(
+    circle at 50% 50%,
+    transparent 20%,
+    var(--shine-color),
+    var(--shine-color),
+    transparent 80%
+  );
+}
+
+/* Hover effect for shine border */
+.group:hover .shine-border {
+  --duration: 8s;
+  background-image: radial-gradient(transparent, transparent, #06b6d4, #3b82f6, #8b5cf6, transparent, transparent);
+}
+
+/* Line clamp utility */
+.line-clamp-4 {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background-color: #06101A; /* stable dark background to avoid white flashes */
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+  }
+  
+  .hide-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari and Opera */
+  }
+}
