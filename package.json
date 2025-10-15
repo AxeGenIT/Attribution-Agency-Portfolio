@@ -1,0 +1,50 @@
+{
+  "name": "attribution-agency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "Talha Jubair <talhajubair100.bd@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fontsource-variable/raleway": "^5.1.0",
+    "@fontsource/inter": "^5.0.15",
+    "@fontsource/pacifico": "^5.1.0",
+    "@fontsource/poppins": "^5.1.0",
+    "@stripe/react-stripe-js": "^3.6.0",
+    "@stripe/stripe-js": "^7.0.0",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.8.4",
+    "framer-motion": "^12.23.0",
+    "lenis": "^1.1.18",
+    "lottie-react": "^2.4.1",
+    "lucide-react": "^0.525.0",
+    "next": "^14.2.0",
+    "papaparse": "^5.4.1",
+    "postcss": "^8.4.29",
+    "react": "^18.2.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.5",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.4.0",
+    "react-slick": "^0.31.0",
+    "resend": "^4.7.0",
+    "sass": "^1.67.0",
+    "sharp": "^0.34.4",
+    "slick-carousel": "^1.8.1",
+    "sonner": "^2.0.3",
+    "swiper": "^11.2.10",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.0",
+    "@types/react": "19.1.0",
+    "typescript": "5.8.3"
+  }
+}
