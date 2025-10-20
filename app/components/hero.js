@@ -7,7 +7,7 @@ import Image from 'next/image';
 const Hero = () => {
 
     return (
-        <div className='relative lg:min-h-[calc(100vh-70px)] lg:pt-60'
+        <div className='relative lg:min-h-[calc(100vh-70px)] lg:pt-60 '
             style={{
                 backgroundImage: `url('/hero_update_1.png')`,
                 backgroundRepeat: 'no-repeat',
@@ -114,7 +114,7 @@ const Hero = () => {
                     <div className="text-center relative">
                         {/* Floating Stats Cards - Hidden on mobile */}
                         <motion.div
-                            className="hidden lg:block absolute left-0 top-40 xl:top-60 transform -rotate-12 z-30"
+                            className="hidden w lg:block absolute left-0 top- xl:top-60 transform -rotate-12 z-30"
                             initial={{ opacity: 0, x: -50, rotate: -12 }}
                             animate={{ opacity: 1, x: 0, rotate: -12 }}
                             transition={{ duration: 0.8, delay: 0.5 }}
@@ -150,7 +150,7 @@ const Hero = () => {
                         </motion.div>
 
                         {/* Main Content */}
-                                  <div className="inline-block px-4 py-2 rounded-full border border-primary/30 bg-primary/10 text-sm text-primary mb-4">
+                                  <div className="inline-block px-4 py-2 rounded-full border border-primary/30 bg-primary/10 text-sm text-white my-4">
             ✨ Digital Agency Solutions
           </div>
                         <motion.div
